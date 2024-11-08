@@ -1,4 +1,4 @@
-## Hi there 👋
+## 정은지의 깃허브 입니다. 👋
 
 <!--
 **ycs-202007071/ycs-202007071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
